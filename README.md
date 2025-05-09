@@ -1,4 +1,4 @@
-💼 Smart Loan Recovery System with Machine Learning
+#💼 Smart Loan Recovery System with Machine Learning
 📋 Project Overview
 This project implements a machine learning-based system to predict loan default risks, enabling financial institutions to optimize their loan recovery strategies. By identifying high-risk borrowers early, the system helps reduce non-performing loans and enhances overall collection efficiency.
 
@@ -45,4 +45,4 @@ Matplotlib & Seaborn
 
 Jupyter Notebook
 
-# Smart-Loan-Recovery-system
+
